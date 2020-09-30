@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projects/suvendu/rajeev/calaf/admin/static/css/main.5ffeaab1.chunk.css",
+    "main.js": "/projects/suvendu/rajeev/calaf/admin/static/js/main.041b45c2.chunk.js",
+    "main.js.map": "/projects/suvendu/rajeev/calaf/admin/static/js/main.041b45c2.chunk.js.map",
+    "runtime-main.js": "/projects/suvendu/rajeev/calaf/admin/static/js/runtime-main.d2a093cc.js",
+    "runtime-main.js.map": "/projects/suvendu/rajeev/calaf/admin/static/js/runtime-main.d2a093cc.js.map",
+    "static/css/2.bb0ec4b3.chunk.css": "/projects/suvendu/rajeev/calaf/admin/static/css/2.bb0ec4b3.chunk.css",
+    "static/js/2.d773d1a4.chunk.js": "/projects/suvendu/rajeev/calaf/admin/static/js/2.d773d1a4.chunk.js",
+    "static/js/2.d773d1a4.chunk.js.map": "/projects/suvendu/rajeev/calaf/admin/static/js/2.d773d1a4.chunk.js.map",
+    "index.html": "/projects/suvendu/rajeev/calaf/admin/index.html",
+    "precache-manifest.6546864eaa1d25f7eed089564dcdb3f4.js": "/projects/suvendu/rajeev/calaf/admin/precache-manifest.6546864eaa1d25f7eed089564dcdb3f4.js",
+    "service-worker.js": "/projects/suvendu/rajeev/calaf/admin/service-worker.js",
+    "static/css/2.bb0ec4b3.chunk.css.map": "/projects/suvendu/rajeev/calaf/admin/static/css/2.bb0ec4b3.chunk.css.map",
+    "static/css/main.5ffeaab1.chunk.css.map": "/projects/suvendu/rajeev/calaf/admin/static/css/main.5ffeaab1.chunk.css.map",
+    "static/js/2.d773d1a4.chunk.js.LICENSE.txt": "/projects/suvendu/rajeev/calaf/admin/static/js/2.d773d1a4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/projects/suvendu/rajeev/calaf/admin/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a093cc.js",
+    "static/css/2.bb0ec4b3.chunk.css",
+    "static/js/2.d773d1a4.chunk.js",
+    "static/css/main.5ffeaab1.chunk.css",
+    "static/js/main.041b45c2.chunk.js"
+  ]
+}
